@@ -14,6 +14,7 @@ export default function App() {
           <Task item='This is task 3'/>
           <Task item='This is task 4'/>
           <Task item='This is task 5'/>
+          <Task item='This is task 6'/>
         </View>
       </View>
 
